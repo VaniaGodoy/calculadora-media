@@ -29,5 +29,5 @@ O usuário informa seu nome, e-mail e notas, e o sistema calcula e exibe a médi
 
 Vania Godoy
 
-Projeto desenvolvido para fins acadêmicos na disciplina de Desenvolvimento Multiplataforma 2 do curso de Desenvolvimento 
+Projeto desenvolvido para fins acadêmicos na disciplina de Desenvolvimento Multiplataforma 2 do curso de Especialização Desenvolvimento 
 de Sistemas para Dispositivos Móveis IFSP - São Carlos
