@@ -1,7 +1,7 @@
 # Calculadora de Média em React
 
 ![Tela](tela1.png)
-![Tela](teal2.png)
+![Tela](tela2.png)
 
 ## Sobre o Projeto
 
